@@ -1,0 +1,12 @@
+name: vaca
+version: 1.0.0
+summary: Get a random ASCII cow 🐮
+description: Get a random ASCII cow 🐮 Try `vaca --help`
+apps:
+  vaca:
+    command: vaca
+parts:
+  vaca:
+    plugin: nodejs
+    node-packages:
+      - vaca
