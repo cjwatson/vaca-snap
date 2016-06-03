@@ -4,9 +4,6 @@ See: https://github.com/sindresorhus/vaca
 
 ## Usage
 
-``
-❯ vaca --help
-
-Usage
+```
 $ vaca
 ```
